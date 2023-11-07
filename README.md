@@ -13,11 +13,13 @@ Onde controla 5 bombas e 4 válvulas. Também habilita o acionamento de um siste
 Também foi instalado um sistema de acesso remoto para trabalho de atendimento do sistema
 
 COMPONENTES
+
 CLP SIETEMS S7-1200 com cartão de entrada digital e analógico
 SIEMENS IHM KTP-700 BASICO
 SWITCH INDUSTRIAL WEG LINHA SWU
 
 ESCOPO
+
 Alterado logicas conforme pedido do cliente para que o sistema seja mais bem aproveitado
 Entre as mudanças ficaram conforme tabela abaixo
 1 ABASTECIMENTO DAS CISTERNAS
