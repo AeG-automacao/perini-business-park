@@ -4,7 +4,9 @@
 RELATÓRIO DE ENTREGA
 
 Entrega referente a alteração do sistema logico do sistema de abastecimento de água
+
 Local: PERINI BUSINESS PARK
+
 Elaborado por: André Araújo dos Santos
 
 INTRODUÇÃO
@@ -17,7 +19,9 @@ Também foi instalado um sistema de acesso remoto para trabalho de atendimento d
 COMPONENTES
 
 CLP SIETEMS S7-1200 com cartão de entrada digital e analógico
+
 SIEMENS IHM KTP-700 BASICO
+
 SWITCH INDUSTRIAL WEG LINHA SWU
 
 ESCOPO
