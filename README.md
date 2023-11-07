@@ -109,6 +109,7 @@ Também foi instalado um switch industrial para acesso por VPN ao CLP e IHM
 Para esta mudança foi necessário troca os endereços do CLP e IHM
 
 ENTREGA
+
 A entrega do serviço foi realizada inloco, com o startup do sistema e simulações
 Disponibilizado o arquivo atualizado
 Todo arquivo utilizado neste serviço está disponível para todos os envolvidos no serviço no repositório do link abaixo
